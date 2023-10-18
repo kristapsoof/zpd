@@ -1,8 +1,9 @@
-## Izveidot number guessing game ar pythonu programeesanas valodaa
+## Izveidot number guessing game ar pythonu programeesanas valodu
 
-### Saturs 
+### Dokumenta saturs
 
-### 1. aprakstt spēli
+### 1. Spēles apraksts
+Interesanta spēle, kas attīsta loģiku
 ### 2. Spēles loģika
 
 Datorus ģenerē vienu skaitli no 1 - 100. Tālāk, piedāvā spēlētājam uzminēt to skaitli.
@@ -35,6 +36,3 @@ else:
         
     print(f"average difference was {sum_of_difference/len(tries)}")
 ```
-
-### 3. u.t.t
-
